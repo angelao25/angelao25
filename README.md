@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://angelao25.io)
-<h1 align="center">Hi 👋, I'm Angel Aguirre</h1>
-<h3 align="center">A passionate full stack developer from Peru</h3>
+<h1 align="center">Hello 👋, I'm Angel Aguirre</h1>
+<h3 align="center">Daytime keystrokes, nighttime breaches</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmYWMwMzEzYTVkNjAzZGFmODY4NGJjODAyZGQxY2E1MWE4ZDFhNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/root_angel01" target="blank"><img src="https://img.shields.io/twitter/follow/root_angel01?logo=twitter&style=for-the-badge" alt="root_angel01" /></a> </p>
 
-- 🔭 I’m currently working on **Mongeek Technologies**
+- 🔭 I’m currently working on the Offensive Pentesting Learning Path from **TryHackMe**
 
-- 🌱 I’m currently learning **Ruby on Rails, Cyber-security from TryHackMe**
+- 🌱 I’m currently learning **Ruby on Rails, Cyber-Security from TryHackMe**
 
 - 📫 How to reach me **anngelao25@gmail.com**
 
