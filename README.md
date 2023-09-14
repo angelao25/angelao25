@@ -2,8 +2,6 @@
 <h1 align="center">Hello 👋, I'm Angel Aguirre</h1>
 <h3 align="center">Daytime keystrokes, nighttime breaches</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmYWMwMzEzYTVkNjAzZGFmODY4NGJjODAyZGQxY2E1MWE4ZDFhNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
-<script src="https://tryhackme.com/badge/486653"></script>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /> </p>
 
