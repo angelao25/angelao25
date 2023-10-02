@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/root_angel01" target="blank"><img src="https://img.shields.io/twitter/follow/root_angel01?logo=twitter&style=for-the-badge" alt="root_angel01" /></a> </p>
 
-- 🔭 I’m currently working on the Offensive Pentesting Learning Path from **TryHackMe** ~ Preparing for the OSCP.
+- 🔭 I’m currently working on the Red Teaming Learning Path from **TryHackMe** ~ Preparing for the OSCP.
 
-- 🌱 I’m currently learning **Ruby on Rails and Cyber-Security from TryHackMe**
+- 🌱 I’m currently learning **Web Development with Ruby on Rails and Offensive Pentesting from TryHackMe**
 
 - 📫 How to reach me **anngelao25@gmail.com**
 
