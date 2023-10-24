@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on the Red Teaming Learning Path from **TryHackMe** ~ Preparing for the OSCP.
 
-- 🌱 I’m currently learning **Web Development with Ruby on Rails and Offensive Pentesting from TryHackMe**
+- 🌱 I’m also polishing my web developer skills by freelancing with **Ruby on Rails**. 
 
 - 📫 How to reach me **anngelao25@gmail.com**
 
