@@ -7,13 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/root_angel01" target="blank"><img src="https://img.shields.io/twitter/follow/root_angel01?logo=twitter&style=for-the-badge" alt="root_angel01" /></a> </p>
 
-- 🔭 I’m currently working on the Red Teaming Learning Path from **TryHackMe** ~ Preparing for the OSCP.
+- 🔭 I’m currently focusing on enhancing my **Ruby on Rails** development skills through freelancing and personal projects.
 
-- 🌱 I’m also polishing my web developer skills by freelancing with **Ruby on Rails**. 
+- 🌱 Completed various cybersecurity learning paths, including:
+  - **Introduction to Cyber Security**
+  - **Jr Penetration Tester**
+  - **Security Engineer**
+  - **Cyber Defense**
+  - **CompTIA Pentest+**
+  - **Offensive Pentesting**
+  
+- 📫 How to reach me: **anngelao25@gmail.com**
 
-- 📫 How to reach me **anngelao25@gmail.com**
-
-- ⚡ Fun fact **When I'm not on my computer, I'm a martial artist.**
+- ⚡ Fun fact: **When I'm not on my computer, I'm a martial artist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
