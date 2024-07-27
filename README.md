@@ -16,6 +16,7 @@
   - **Cyber Defense**
   - **CompTIA Pentest+**
   - **Offensive Pentesting**
+  - **Red Teaming (80%)**
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
