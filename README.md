@@ -7,20 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /></p>
 
-- 🔭 I’m currently focusing on enhancing my **Ruby on Rails** development skills through freelancing and personal projects.
+- 🧑‍💻 I’m a Web Developer with a focus on Ruby on Rails and a passion for Offensive Security.
 
-- 🌱 Completed various cybersecurity learning paths, including:
-  - **Introduction to Cyber Security**
-  - **Jr Penetration Tester**
-  - **Security Engineer**
-  - **Cyber Defense**
-  - **CompTIA Pentest+**
-  - **Offensive Pentesting**
-  - **Red Teaming (80%)**
+- I'm currently sharpening my Ruby skills.
+
+- 🌱 Certified Offensive Pentester by TryHackMe.
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
-- ⚡ Fun fact: **When I'm not on my computer, I'm a martial artist.**
+- ⚡ Fun fact: **When I'm not immersed in software development, managing Linux servers, or honing my offensive pentesting skills, you’ll find me practicing martial arts or cycling through mountain trails.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
