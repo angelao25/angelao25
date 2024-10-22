@@ -5,9 +5,7 @@
   <img align="right" top="500" height="300" alt="GIF" width="400" src="https://i.giphy.com/dLolp8dtrYCJi.webp">
 </a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /> </p>
-
-<p align="left"> <a href="https://twitter.com/root_angel01" target="blank"><img src="https://img.shields.io/twitter/follow/root_angel01?logo=twitter&style=for-the-badge" alt="root_angel01" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /></p>
 
 - 🔭 I’m currently focusing on enhancing my **Ruby on Rails** development skills through freelancing and personal projects.
 
