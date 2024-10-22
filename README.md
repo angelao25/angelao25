@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Angel</h1>
 <h3 align="center">Daytime keystrokes, night-time breaches</h3>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" alt="GIF" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjl2Y3FwOTNpZ2ZyOHc1Ym1tanYyZmJsOWQyajVtOXgxZXhzYmNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp">
+  <img align="right" top="500" height="300" alt="GIF" width="400" src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjl2Y3FwOTNpZ2ZyOHc1Ym1tanYyZmJsOWQyajVtOXgxZXhzYmNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2o5dGNvM2w4bzh1dHd3dDFxdWR4MjlpNzh5M3o0OW1icHVra3N5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.webp)">
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /> </p>
