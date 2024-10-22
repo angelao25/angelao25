@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://angelao25.io)
-<h1 align="center">Hello 👋, I'm Angel Aguirre</h1>
-<h3 align="center">Daytime keystrokes, nighttime breaches</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmYWMwMzEzYTVkNjAzZGFmODY4NGJjODAyZGQxY2E1MWE4ZDFhNyZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+<h1 align="center">Hello 👋, I'm Angel</h1>
+<h3 align="center">Daytime keystrokes, night-time breaches</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjl2Y3FwOTNpZ2ZyOHc1Ym1tanYyZmJsOWQyajVtOXgxZXhzYmNhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7J4P7cUur2DlErijp3/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /> </p>
 
