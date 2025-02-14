@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I’m a Web Developer with a focus on Ruby on Rails and a passion for Offensive Security.
 
-- I'm currently sharpening my Ruby skills.
+- I am currently enhancing my Ruby programming skills by building up personal tools, most for Penetration Testing purposes.
 
 - 🌱 Certified Offensive Pentester by TryHackMe.
   
