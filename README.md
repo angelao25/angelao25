@@ -1,9 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://angelao25.io)
-<h1 align="center">Hello 👋, I'm Angel</h1>
-<h3 align="center">Daytime keystrokes, night-time breaches</h3>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" alt="GIF" width="400" src="https://i.giphy.com/dLolp8dtrYCJi.webp">
-</a>
+<h1 align="center">Hi, I'm Angel!</h1>
+<h3 align="center">Programmer, Cybersecurity Professional, Youtuber</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /></p>
 
