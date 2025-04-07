@@ -5,11 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /></p>
 
-- 🧑‍💻 I’m a Web Developer with a focus on Ruby on Rails and a passion for Offensive Security.
+- 🧑‍💻 I’m a programmer with a focus on Web Development and a passion for Offensive Security.
 
 - I am currently enhancing my Ruby programming skills by building up personal tools, most for Penetration Testing purposes.
 
 - 🌱 Certified Offensive Pentester by TryHackMe.
+- HachTheBox CPTS (loading...)
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
