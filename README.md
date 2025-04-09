@@ -10,7 +10,7 @@
 - I am currently enhancing my Ruby programming skills by building up personal tools, most for Penetration Testing purposes.
 
 - 🌱 Certified Offensive Pentester by TryHackMe.
-- HachTheBox CPTS (loading...)
+- HackTheBox CPTS (loading...)
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
