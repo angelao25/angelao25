@@ -1,16 +1,17 @@
 [![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)](https://angelao25.io)
 <h1 align="center">Hi, I'm Angel!</h1>
-<h3 align="center">Programmer, Cybersecurity Professional, Youtuber</h3>
+<h3 align="center">Programmer, Pentester and Security Researcher</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /></p>
 
-- 🧑‍💻 I’m a programmer with a focus on Web Development and a passion for Offensive Security.
+- 🧑‍💻 I’m a programmer with a focus on Web Development with Ruby on Rails and a passion for Offensive Security.
 
-- I am currently enhancing my Ruby programming skills by building up personal tools, most for Penetration Testing purposes.
+- I am these days mostly doing bash scripting, competing in CTFS, hacking my way to the top in HackTheBox leaderboards.
 
 - 🌱 Certified Offensive Pentester by TryHackMe.
-- HackTheBox CPTS (loading...)
+
+- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 70% ...)
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
