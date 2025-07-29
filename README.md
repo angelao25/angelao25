@@ -11,7 +11,7 @@
 
 - 🌱 Certified Offensive Pentester by TryHackMe.
 
-- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 70% ...)
+- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 81% ...)
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/root_angel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="root_angel01" height="30" width="40" /></a>
+<a href="https://x.com/Angel_ao25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="root_angel01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rootangel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rootangel01" height="30" width="40" /></a>
 <a href="https://instagram.com/root_angel01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angelaocodes" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anngelao25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anngelao25" height="30" width="40" /></a>
