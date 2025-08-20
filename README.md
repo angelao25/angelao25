@@ -11,7 +11,7 @@
 
 - 🌱 Certified Offensive Pentester by TryHackMe.
 
-- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 81% ...)
+- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 91% ...)
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
