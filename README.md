@@ -5,17 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angelao25&label=Profile%20views&color=0e75b6&style=flat" alt="angelao25" /></p>
 
-- 🧑‍💻 I’m a programmer with a focus on Web Development with Ruby on Rails and a passion for Offensive Security.
+- 🧑‍💻 Pentesting - Red Teaming - DevSecOps 
 
-- I am these days mostly doing bash scripting, competing in CTFS, hacking my way to the top in HackTheBox leaderboards.
-
-- 🌱 Certified Offensive Pentester by TryHackMe.
-
-- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 91% ...)
+- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 97% ...)
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
-- ⚡ Fun fact: **When I'm not immersed in software development, managing Linux servers, or honing my offensive pentesting skills, you’ll find me practicing martial arts or cycling through mountain trails.**
+- ⚡ **Tools are my own | I don't break systems — I reveal their honesty.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
