@@ -7,7 +7,7 @@
 
 - 🧑‍💻 Pentesting - Red Teaming - DevSecOps 
 
-- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (loading 97% ...)
+- Currently going through HackTheBox Academy CPTS Path -> HackTheBox CPTS (Completed 100%)
   
 - 📫 How to reach me: **anngelao25@gmail.com**
 
